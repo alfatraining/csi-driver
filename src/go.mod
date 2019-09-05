@@ -1,7 +1,7 @@
 module hetzner.cloud/csi
 
 require (
-	github.com/container-storage-interface/spec v1.0.0
+	github.com/container-storage-interface/spec v1.1.0
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/go-kit/kit v0.8.0
 	github.com/go-logfmt/logfmt v0.4.0 // indirect
